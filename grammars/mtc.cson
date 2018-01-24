@@ -17,6 +17,8 @@
                 'name': 'keyword.control.mtc'
         'name': 'meta.function.mylanguage'
     }
+    {
+       'match': '\\/\\/[[:blank:]].*'
+       'name': 'comment.block.mtc'
+    }
 ]
-
-
